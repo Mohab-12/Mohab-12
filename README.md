@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohab-12
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Power Bi
 - 💞️ I’m looking to collaborate on Data analysis 
 - 📫 How to reach me ? via email.
 
